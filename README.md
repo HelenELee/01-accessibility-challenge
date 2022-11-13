@@ -15,7 +15,7 @@ Read the comments to see where improvements were made.
 
 ## Credits
 
-Would like to thanks the instructors at UWA Bootcamp for their teaching with regard to accessibility.
+Would like to thank the instructors at UWA Bootcamp for their teaching with regard to accessibility.
 
 ## License
 
@@ -24,4 +24,5 @@ Please refer to the license in the repo - MIT License
 ## How to Contribute
 
 As this is a learning challenge for me I would appreciate any feedback, or ideas for improvement.
+
 [Send feedback](mailto:helenelee3@outlook.com)
