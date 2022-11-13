@@ -11,10 +11,17 @@ N/A
 
 ## Usage
 
-Read the comments to see where improvements were made.
+Please read the comments in index.html and style.css files to see where improvements were made.
+
 Below is a screenshot of the website. 
 
 ![Image](./assets/images/screenshot.jpg?raw=true "Screenshot")
+
+[To view the updated Horiseon website click here.](https://helenelee.github.io/01-accessibility-challenge/)
+
+[To view the original HTML before it was updated for accessibility click here.](./index_starter.html)
+
+[To view the original CSS before it was updated for accessibility click here.](./assets/css/css_starter.css)
 
 ## Credits
 
