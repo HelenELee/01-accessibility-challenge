@@ -12,9 +12,9 @@ N/A
 ## Usage
 
 Read the comments to see where improvements were made.
-To view a screen shot of the web page click on the link : 
+Below is a screenshot of the website. 
 
-![Image](./assets/images/helenelee.github.io_01-accessibility-challenge_ screenshot.png?raw=true "Screenshot")
+![Image](./assets/images/screenshot.jpg?raw=true "Screenshot")
 
 ## Credits
 
